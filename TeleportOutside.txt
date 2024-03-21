@@ -1,0 +1,14 @@
+## Title: |cA470FATel|r|c9979FFep|r|c8D82FFort|r|c818BFFOut|r|c7593FFside|r
+## Description: |cCB9EFF/tpo (house id)|r
+## Author: |cCB9EFFTheMrPancake|r
+## APIVersion: 101041
+## AddOnVersion: 1
+## Version: 1.0
+
+; This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
+; The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc.
+; in the United States and/or other countries. All rights reserved.
+;
+; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
+
+TeleportOutside.lua
