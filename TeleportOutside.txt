@@ -1,6 +1,6 @@
 ## Title: |cA470FATel|r|c9979FFep|r|c8D82FFort|r|c818BFFOut|r|c7593FFside|r
-## Description: |cCB9EFF/tpo (house id)|r
-## Author: |cCB9EFFTheMrPancake|r
+## Description: /tpo (house id)
+## Author: TheMrPancake
 ## APIVersion: 101041
 ## AddOnVersion: 1
 ## Version: 1.0
