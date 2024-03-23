@@ -3,7 +3,7 @@
 ## Author: TheMrPancake
 ## APIVersion: 101041
 ## AddOnVersion: 1
-## Version: 1.0
+## Version: 1.1
 
 ; This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
 ; The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc.
